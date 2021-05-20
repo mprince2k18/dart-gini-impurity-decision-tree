@@ -1,5 +1,7 @@
 # Dart Gini Impurity For Decision Tree
 
+![alt text](https://cdn.discordapp.com/attachments/830144192675053578/844988786253496350/08.20.20-What-is-Dart-and-how-is-it-used-1024x576.jpg.png.png)
+
 ## Introduction
 
 > Calculating Gini impurity is easy to calculate but typing on the calculator is pretty overwhelmed. This script will help to get the result of Gini impurity within a second.
