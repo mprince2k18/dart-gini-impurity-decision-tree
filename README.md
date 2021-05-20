@@ -25,7 +25,7 @@
 
 > Copy the below code or main.dart code and paste to https://dartpad.dev to run the script.
 
-> ```
+```
 import 'dart:math';
 void main() {
   var trueyes = 6; // value of left true yes
